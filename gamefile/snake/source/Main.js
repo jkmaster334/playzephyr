@@ -8,8 +8,8 @@ import Keyboard     from "./Keyboard.js";
 import Score        from "./Score.js";
 
 // Utils
-import Sounds       from "../../utils/Sounds.js";
-import Utils        from "../../utils/Utils.js";
+import Sounds       from "./Sounds.js";
+import Utils        from "./Utils.js";
 
 // Variables
 let display   = null;

@@ -15,10 +15,10 @@ CACHE MANIFEST
 /source/Snake.js
 /source/Init.js
 
-../snake/utils/Utils.js
-../snake/utils/Queue.js
-../snake/utils/Storage.js
-../snake/utils/Sounds.js
+/source/Utils.js
+/source/Queue.js
+/source/Storage.js
+/source/Sounds.js
 
 /fonts/bauhs93.ttf
 /fonts/equilibrium.ttf
